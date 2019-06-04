@@ -1,5 +1,7 @@
 # webpack demo test
 
+![](readme.png)
+
 ## ready venv
 
 ```shell
