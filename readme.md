@@ -1,4 +1,6 @@
-# webpack demo test
+# webpack-develop-example
+
+这个示例项目将提供一个本地开发浏览器组件运行环境，使用 webpack 打包，提供各类 JavaScript 使用示范，例如：设计并导出闭包对象，外部引用浏览器第三方组件，VSCODE 本地开发，近似 Js bin 的开发基础示例。
 
 ## ready venv
 
